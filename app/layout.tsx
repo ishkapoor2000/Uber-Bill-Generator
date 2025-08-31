@@ -5,8 +5,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Uber Bill Generator',
+  description: 'Created by Ish Kapoor. A dynamic full customisable Uber bill generator app.',
   generator: 'v0.app',
 }
 
